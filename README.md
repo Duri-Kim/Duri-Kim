@@ -1,5 +1,5 @@
 # Hello. I'm Duri Kim! 😊
-**I’m currently learning _Skills Bootcamp in Software Engineering_ with HyperionDev.**❤️
+**I’m currently learning _Skills Bootcamp in Software Engineering_ with HyperionDev**❤️
 
 ## Skills
 - Programming Languages: **Python**
