@@ -1,12 +1,12 @@
 # Hello. I'm Duri Kim! 😊
-**I’m currently learning _'Skills Bootcamp in Software Engineering'_ with HyperionDev**❤️
+**I’m currently learning _'Skills Bootcamp in Software Engineering'_ with HyperionDev**🙌
 
 ## Skills
 - Programming Languages: **Python**
 
 ## Interests
-- I like reading books 📔 
-- I like coding too! 🖥️⌨️
+- I like doing voluntary work for the environment! 🌳
+- I like coding too❤️ I want to be a good Software Engineer! 🖥️⌨️
 
 ## Contact Information
 - Email: 77duri77@gmail.com
