@@ -1,5 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://getwallpapers.com/wallpaper/full/9/5/2/1198681-4k-galaxy-wallpaper-3840x2160-for-4k.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
  <source media="(prefers-color-scheme: light)" srcset="https://wallpapercave.com/wp/wp4557708.jpg">
  <img alt="Shows a picture of a mountain in light mode and a galaxy in dark mode." src="https://pluspng.com/img-png/png-smiling-face-open-2000.png">
 </picture>
