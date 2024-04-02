@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://getwallpapers.com/wallpaper/full/9/5/2/1198681-4k-galaxy-wallpaper-3840x2160-for-4k.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://wallpapercave.com/wp/wp4557708.jpg">
+ <img alt="Shows a picture of a mountain in light mode and a galaxy in dark mode." src="https://pluspng.com/img-png/png-smiling-face-open-2000.png">
+</picture>
+
 # Hello. I'm Duri Kim! 😊
 **I’m currently learning _'Skills Bootcamp in Software Engineering'_ with HyperionDev**🙌
 
